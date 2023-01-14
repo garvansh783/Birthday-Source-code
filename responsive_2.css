@@ -1,0 +1,128 @@
+@media (max-width: 1100px){
+    .body{
+      min-height: 100vh;
+      min-width: 40vh;
+    }
+    .img{
+      height: 2600px;
+      width: 1400px;
+      border: none;
+    }
+    .img-2{
+      height: 1500px;
+      width: 1100px;
+      margin-left: -130px;
+      margin-top: 400px;
+    }
+    .p-1{
+      display: none;
+    }
+    .p-2{
+      display: none;
+    }
+    .p-3{
+      display: none;
+    }
+    .p-4{
+      display: none;
+    }
+    .p-5{
+      display: none;
+    }
+    .txt-1{
+      display: none;
+    }
+    .img-3{
+      display: none;
+    }
+    .img-4{
+      display: none;
+    }
+    .img-5{
+      display: none;
+    }
+    .white-box{
+      display: none;
+    }
+    .white-box-2{
+      display: none;
+    }
+    .txt-1{
+      display: block;
+      font-size: 90px;
+      top: 700px;
+      left: 750px;
+    }
+    .p1-r{
+      position: absolute;
+      top: 887px;
+      left: 575px;
+      width: 65%;
+      font-size: 24px;
+    }
+    .p2-r{
+      position: absolute;
+      top: 1035px;
+      left: 576px;
+      width: 80%;
+      font-size: 21px;
+    }
+     .p3-r{
+      position: absolute;
+      top: 1170px;
+      left: 527px;
+      width: 70%;
+      font-size: 24px;
+    }
+    .p4-r{
+      position: absolute;
+      top: 1310px;
+      left: 550px;
+      width: 65%;
+      font-size: 24px;
+    }
+     .p5-r{
+      position: absolute;
+      top: 1450px;
+      left: 578px;
+      width: 65%;
+      font-size: 25px;
+    }
+    .p6-r{
+      position: absolute;
+      top: 1593px;
+      left: 583px;
+      width: 65%;
+      font-size: 24px;
+    }
+    .p7-r{
+      position: absolute;
+      top: 1735px;
+      left: 917px;
+      width: 60%;
+      font-size: 22px;
+    }
+    .img-3{
+      display: block;
+      left: 180px;
+      width: 500px;
+      height: 300px;
+      border-radius: 10px;
+    }
+    .img-4{
+      display: block;
+      left: 750px;
+      top: 100px;
+      width: 500px;
+      height: 300px;
+      border-radius: 10px;
+    }
+    .img-5{
+      display: block;
+      left: 500px;
+      top: 2100px;
+      width: 500px;
+      height: 300px;
+      border-radius: 10px;
+    }
+  }

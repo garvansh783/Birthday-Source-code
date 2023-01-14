@@ -1,0 +1,125 @@
+body{
+	margin: 0;
+	padding: 0;
+  height: none;
+}
+
+
+.img{
+	width: 1420px;
+  height: 730px;
+	margin-top: 30px;
+	margin-left: 10px;
+  border: none;
+  border-radius: 5px;
+}
+
+.img-2{
+	width: 1050px;
+	height: 500px;
+	position: absolute;
+	top: 100px;
+	left: 300px;
+  border: none;
+  border-radius: 5px;
+}
+
+.img-3{
+	position: absolute;
+	top: 100px;
+	left: 20px;
+	width: 260px;
+  border: none;
+  border-radius: 5px;
+}
+
+.img-4{
+	position: absolute;
+	top: 400px;
+	left: 20px;
+	width: 270px;
+  border: none;
+  border-radius: 5px;
+}
+
+.img-5{
+	position: absolute;
+	top: 620px;
+	left: 700px;
+	width: 270px;
+	height: 130px;
+  border: none;
+  border-radius: 5px;
+}
+
+
+.txt-1{
+	position: absolute;
+	top: 130px;
+	left: 1140px;
+	color: pink;
+  font-family: Comic Sans MS, Comic Sans, cursive;
+}
+
+.p-1{
+	position: absolute;
+	top: 213px;
+	left: 690px;
+	font-family: 'Times New Roman', Times, serif;
+}
+
+.p-2{
+	position: absolute;
+	top: 260px;
+	left: 690px;
+	font-family: 'Times New Roman', Times, serif;
+}
+
+.p-3{
+	position: absolute;
+	top: 307px;
+	left: 640px;
+	font-family: 'Times New Roman', Times, serif;
+}
+
+.p-4{
+	position: absolute;
+	top: 353px;
+	left: 655px;
+	font-family: 'Times New Roman', Times, serif;
+}
+
+.p-5{
+	position: absolute;
+	top: 402px;
+	left: 1070px;
+	font-family: 'Source Code Pro', monospace;
+}
+
+.white-box{
+  position: absolute;
+  top: 440px;
+  left: 680px;
+  background-color: #f7f3f3;
+  width: 42%;
+  height: 20%;
+  border: none;
+}
+
+.white-box-2{
+  background-color: white;
+  height: 240px;
+  width: 700px;
+  margin-top: -250px;
+}
+
+
+
+
+
+
+
+
+
+
+
